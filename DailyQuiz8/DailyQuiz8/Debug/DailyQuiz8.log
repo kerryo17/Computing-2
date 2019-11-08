@@ -1,0 +1,7 @@
+﻿  stack.c
+c:\users\kerry\source\repos\dailyquiz8\dailyquiz8\stack.c(41): error C2043: illegal break
+c:\users\kerry\source\repos\dailyquiz8\dailyquiz8\stack.c(59): error C2065: 't': undeclared identifier
+c:\users\kerry\source\repos\dailyquiz8\dailyquiz8\stack.c(59): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\kerry\source\repos\dailyquiz8\dailyquiz8\stack.c(60): error C2065: 't': undeclared identifier
+c:\users\kerry\source\repos\dailyquiz8\dailyquiz8\stack.c(60): error C2100: illegal indirection
+c:\users\kerry\source\repos\dailyquiz8\dailyquiz8\stack.c(73): error C2059: syntax error: ';'
