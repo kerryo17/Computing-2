@@ -1,0 +1,5 @@
+﻿  Daily6.c
+c:\users\kerry\source\repos\dailyquiz6\dailyquiz6\daily6.c(31): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\kerry\source\repos\dailyquiz6\dailyquiz6\daily6.c(44): warning C4098: 'unset_flag': 'void' function returning a value
+c:\users\kerry\source\repos\dailyquiz6\dailyquiz6\daily6.c(48): warning C4013: 'abs' undefined; assuming extern returning int
+  DailyQuiz6.vcxproj -> C:\Users\Kerry\source\repos\DailyQuiz6\Debug\DailyQuiz6.exe
