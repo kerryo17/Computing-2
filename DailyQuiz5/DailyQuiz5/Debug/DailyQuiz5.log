@@ -1,0 +1,3 @@
+﻿  Daily5.c
+c:\users\kerry\source\repos\dailyquiz5\dailyquiz5\daily5.c(27): warning C4013: 'system' undefined; assuming extern returning int
+  DailyQuiz5.vcxproj -> C:\Users\Kerry\source\repos\DailyQuiz5\Debug\DailyQuiz5.exe
